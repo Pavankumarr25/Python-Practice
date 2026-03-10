@@ -20,7 +20,6 @@ while True:
     print("Result",a-b)
   elif choice==3:
     a=float(input("Enter 1st number"))
-    b=float(input("Enter 2nd number"))
     if b!=0:
          print("Result",a*b)
     else:
