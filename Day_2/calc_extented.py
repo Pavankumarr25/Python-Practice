@@ -4,6 +4,7 @@ print("3.Divide")
 print("4.Multiply")
 print("5.Modulus")
 print("6.Power")
+print("7.Exit")
 
 choice=int(input("Enter your choice(1-4) "))
 
