@@ -3,5 +3,5 @@ def factorial(n):
   for i in range(1,n+1):
     fact=fact*i
   return fact
-num=int(inut("Enter a number"))
-print("Factorial:",factorial(num))
+num=int(input("Enter a number"))
+print("Factorial:",factorial)
