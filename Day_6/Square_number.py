@@ -1,3 +1,4 @@
 def square(x):
-  print(x*x)
-square(9)
+  return x*x
+num = int(input("Enter number: "))
+print("Square:", square(num))

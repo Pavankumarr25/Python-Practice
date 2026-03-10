@@ -1,5 +1,7 @@
-def check_even(n):
+def check_even_odd(n):
   if n%2==0:
-    print("Even")
+    return("Even")
   else:
-    print("Odd")
+    return("Odd")
+num = int(input("Enter number: "))
+print(check_even_odd(num))
