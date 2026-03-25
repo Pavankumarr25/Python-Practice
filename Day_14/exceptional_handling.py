@@ -50,6 +50,4 @@ def menu():
 
         except ValueError:
             print("Please enter a valid number!")
-
-
 menu()
